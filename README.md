@@ -1,29 +1,41 @@
 # Non-Inference Principles
 
-This repository contains the **Non-Inference Principles v1.0**, a
-normative technical standard defining *non-inference* as a
+This repository contains the **Non-Inference Principles v1.0 (NIP)**,
+a normative technical standard defining *non-inference* as a
 system-level, mechanistic property.
 
-## Non-Inference Governance
+## Governance and Scope
 
-The QuantaIQ Core is governed by the **Non-Inference Principles v1.0 (NIP)**, a normative technical standard defining Non-Inference as a mechanistic system property.
+The **Non-Inference Principles (NIP)** define what *Non-Inference* means
+at a technical level. 
 
-This repository includes the **Non-Inference License (NIL v0.3)**, which normatively references NIP v1.0 for all technical definitions.
+This document is intended to be cited by implementations, licenses, certifications, and research efforts, but does not
+itself impose enforcement, compliance, or legal obligations.
 
-- Non-Inference Principles v1.0: <link to repo>
-- Non-Inference License v0.3: LICENSES/NONINFERENCE_LICENSE.md
+The **QuantaIQ Core** and related systems normatively reference
+**Non-Inference Principles v1.0 (NIP)** as the authoritative technical
+definition of Non-Inference.
 
+The **Non-Inference License (NIL v0.3)**, used by certain QuantaIQ
+repositories, normatively defers to this document for all technical
+definitions.
+
+- Non-Inference Principles v1.0 (this repository):  
+  https://github.com/Skytimbo/non-inference-principles
+- Non-Inference License v0.3 (example consumer):  
+  https://github.com/Skytimbo/qIQ-core-V1/blob/main/LICENSES/NONINFERENCE_LICENSE.md
 
 ## What this is
-- A technical specification
-- A definition of system invariants
-- Prior art for non-inference architectures
-- A reference standard for Quanta IQ and related systems
+- A normative technical specification
+- A definition of system-level invariants
+- Prior art for non-inference system architectures and behavioral invariants
+- A reference standard for QuantaIQ and related systems
 
 ## What this is not
 - A software license
 - A compliance checklist
 - A legal or regulatory framework
+- An ethical or consent policy
 
 ## Canonical document
 - [NON_INFERENCE_PRINCIPLES_v1.0.md](./NON_INFERENCE_PRINCIPLES_v1.0.md)
