@@ -7,7 +7,7 @@ system-level, mechanistic property.
 ## Governance and Scope
 
 The **Non-Inference Principles (NIP)** define what *Non-Inference* means
-at a technical level. 
+at a technical level. This document defines a conceptual standard and does not imply that any current implementation conforms to it.
 
 This document is intended to be cited by implementations, licenses, certifications, and research efforts, but does not
 itself impose enforcement, compliance, or legal obligations.
