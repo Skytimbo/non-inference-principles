@@ -16,7 +16,7 @@ The **QuantaIQ Core** and related systems normatively reference **Non-Inference 
 
 The **Non-Inference License (NIL v0.3)**, used by certain QuantaIQ repositories, normatively defers to this document for all technical definitions.
 
-This work is licensed under CC-BY 4.0 to encourage broad adoption and implementation of the Non-Inference Principles as a system-level standard.
+This work is licensed under the Creative Commons Attribution 4.0 International (CC-BY 4.0) license to encourage broad adoption and implementation of the Non-Inference Principles as a system-level standard.
 
 ---
 
@@ -43,9 +43,9 @@ This work is licensed under CC-BY 4.0 to encourage broad adoption and implementa
 
 The following systems are designed to operationalize the Non-Inference Principles:
 
-- **QuantaIQ** — introduces the *Inference Interruptor* architecture, which enforces a strict separation between deterministic measurement and governed interpretation.
+- **QuantaIQ** — introduces the *Inference Interruptor* architecture, which enforces a strict separation between deterministic measurement and governed interpretation.  
 
-  *(link to repository)*
+  https://github.com/Skytimbo/inference-interruptor
 
 QuantaIQ implements Non-Inference as a system property, not a guideline.
 
@@ -59,4 +59,4 @@ QuantaIQ implements Non-Inference as a system property, not a guideline.
 
 ## License
 
-This work is licensed under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)** license.
+This work is licensed under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)**.
