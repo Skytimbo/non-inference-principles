@@ -1,48 +1,62 @@
 # Non-Inference Principles
 
-This repository contains the **Non-Inference Principles v1.0 (NIP)**,
-a normative technical standard defining *non-inference* as a
-system-level, mechanistic property.
+This repository contains the **Non-Inference Principles v1.0 (NIP)**,  
+a normative technical standard defining *non-inference* as a system-level, mechanistic property.
+
+---
 
 ## Governance and Scope
 
-The **Non-Inference Principles (NIP)** define what *Non-Inference* means
-at a technical level. This document defines a conceptual standard and does not imply that any current implementation conforms to it.
+The **Non-Inference Principles (NIP)** define what *Non-Inference* means at a technical level.  
+This document establishes a conceptual standard and does not imply that any current implementation conforms to it.
 
-This document is intended to be cited by implementations, licenses, certifications, and research efforts, but does not
-itself impose enforcement, compliance, or legal obligations.
+This standard is intended to be cited by implementations, licenses, certifications, and research efforts, but does not itself impose enforcement, compliance, or legal obligations.
 
-The **QuantaIQ Core** and related systems normatively reference
-**Non-Inference Principles v1.0 (NIP)** as the authoritative technical
-definition of Non-Inference.
+The **QuantaIQ Core** and related systems normatively reference **Non-Inference Principles v1.0 (NIP)** as the authoritative technical definition of Non-Inference.
 
-The **Non-Inference License (NIL v0.3)**, 
+The **Non-Inference License (NIL v0.3)**, used by certain QuantaIQ repositories, normatively defers to this document for all technical definitions.
+
 This work is licensed under CC-BY 4.0 to encourage broad adoption and implementation of the Non-Inference Principles as a system-level standard.
 
-used by certain QuantaIQ
-repositories, normatively defers to this document for all technical
-definitions.
-
-- Non-Inference Principles v1.0 (this repository):  
-  https://github.com/Skytimbo/non-inference-principles
-- Non-Inference License v0.3 (example consumer):  
-  https://github.com/Skytimbo/qIQ-core-V1/blob/main/LICENSES/NONINFERENCE_LICENSE.md
+---
 
 ## What this is
-- A system-agnostic standard that may be implemented by independent architectures
-- A normative technical specification
-- A definition of system-level invariants
-- Prior art for non-inference system architectures and behavioral invariants
-- A reference standard for QuantaIQ and related systems
+
+- A system-agnostic standard that may be implemented by independent architectures  
+- A normative technical specification  
+- A definition of system-level invariants  
+- Prior art for non-inference system architectures and behavioral invariants  
+- A reference standard for QuantaIQ and related systems  
+
+---
 
 ## What this is not
-- A software license
-- A compliance checklist
-- A legal or regulatory framework
-- An ethical or consent policy
 
-## Canonical document
+- A software license  
+- A compliance checklist  
+- A legal or regulatory framework  
+- An ethical or consent policy  
+
+---
+
+## Reference Implementations
+
+The following systems are designed to operationalize the Non-Inference Principles:
+
+- **QuantaIQ** — introduces the *Inference Interruptor* architecture, which enforces a strict separation between deterministic measurement and governed interpretation.
+
+  *(link to repository)*
+
+QuantaIQ implements Non-Inference as a system property, not a guideline.
+
+---
+
+## Canonical Document
+
 - [NON_INFERENCE_PRINCIPLES_v1.0.md](./NON_INFERENCE_PRINCIPLES_v1.0.md)
 
+---
+
 ## License
-Creative Commons Attribution 4.0 International (CC-BY 4.0)
+
+This work is licensed under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)** license.
