@@ -16,7 +16,10 @@ The **QuantaIQ Core** and related systems normatively reference
 **Non-Inference Principles v1.0 (NIP)** as the authoritative technical
 definition of Non-Inference.
 
-The **Non-Inference License (NIL v0.3)**, used by certain QuantaIQ
+The **Non-Inference License (NIL v0.3)**, 
+This work is licensed under CC-BY 4.0 to encourage broad adoption and implementation of the Non-Inference Principles as a system-level standard.
+
+used by certain QuantaIQ
 repositories, normatively defers to this document for all technical
 definitions.
 
