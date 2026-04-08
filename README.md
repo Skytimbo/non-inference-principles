@@ -8,9 +8,9 @@ a normative technical standard defining *non-inference* as a system-level, mecha
 ## Governance and Scope
 
 The **Non-Inference Principles (NIP)** define what *Non-Inference* means at a technical level.  
-This document establishes a conceptual standard and does not imply that any current implementation conforms to it.
+This document defines a conceptual standard and does not imply that any current implementation conforms to it.
 
-This standard is intended to be cited by implementations, licenses, certifications, and research efforts, but does not itself impose enforcement, compliance, or legal obligations.
+This standard is intended to be cited by implementations, licenses, certifications, and research efforts, but does not itself impose enforcement, compliance, or legal obligations. It is designed to be implementation-independent and verifiable through system behavior.
 
 The **QuantaIQ Core** and related systems normatively reference **Non-Inference Principles v1.0 (NIP)** as the authoritative technical definition of Non-Inference.
 
@@ -45,7 +45,7 @@ The following systems are designed to operationalize the Non-Inference Principle
 
 - **QuantaIQ** — introduces the *Inference Interruptor* architecture, which enforces a strict separation between deterministic measurement and governed interpretation.  
 
-  https://github.com/Skytimbo/inference-interruptor
+  [Inference Interruptor Repository](https://github.com/Skytimbo/inference-interruptor)
 
 QuantaIQ implements Non-Inference as a system property, not a guideline.
 
