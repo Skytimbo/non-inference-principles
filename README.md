@@ -26,6 +26,7 @@ definitions.
   https://github.com/Skytimbo/qIQ-core-V1/blob/main/LICENSES/NONINFERENCE_LICENSE.md
 
 ## What this is
+- A system-agnostic standard that may be implemented by independent architectures
 - A normative technical specification
 - A definition of system-level invariants
 - Prior art for non-inference system architectures and behavioral invariants
